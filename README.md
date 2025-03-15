@@ -6,7 +6,7 @@ VansLife is a React-based web application for a fictional van rental service. Th
 
 ## Website Templates
 
-<div style='display:flex; align-items:top;width:100vw; gap:3%; border:2px solid red; padding:20px 10p; align-items:start;'>
+<div style='display:flex; align-items: flex-start;width:100vw; gap:3%; border:2px solid red; padding:20px 10p; align-items:start;'>
       <img src='./web_template//1.png' width="30%">
       <img src='./web_template//2.png' width="30%">
       <img src='./web_template//3.png' width="30%">
@@ -14,7 +14,7 @@ VansLife is a React-based web application for a fictional van rental service. Th
 
 ## Mobile Templates
 
-<div style='display:flex; align-items:top; flex-wrap:wrap; width:100vw; gap:8%;border:2px solid red; padding:20px 10px;'>
+<div style='display:flex; align-items: flex-start; flex-wrap:wrap; width:100vw; gap:8%;border:2px solid red; padding:20px 10px;'>
       <img src='./web_template//1m.png' width="25%">
       <img src='./web_template//2m.png' width="25%">
       <img src='./web_template//3m.png' width="25%">
