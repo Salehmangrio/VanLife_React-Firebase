@@ -4,6 +4,26 @@
 ## Project Overview
 VansLife is a React-based web application for a fictional van rental service. The application allows users to browse available vans, view detailed information about each van, and hosts to manage their listed vans.
 
+## Website Templates
+
+<div style='display:flex; width:100vw; gap:3%; border:2px solid red; padding:20px 10px'>
+      <img src='./web_template//1.png' width="30%">
+      <img src='./web_template//2.png' width="30%">
+      <img src='./web_template//3.png' width="30%">
+</div>
+
+## Mobile Templates
+
+<div style='display:flex; flex-wrap:wrap; width:100vw; gap:8%;border:2px solid red; padding:20px 10px'>
+      <img src='./web_template//1m.png' width="25%">
+      <img src='./web_template//2m.png' width="25%">
+      <img src='./web_template//3m.png' width="25%">
+      <img src='./web_template//4m.png' width="25%">
+      <img src='./web_template//5m.png' width="25%">
+      <img src='./web_template//6m.png' width="25%">
+</div>
+
+
 ## Features
 - **Browse Vans**: Users can view all available vans with filtering options
 - **Van Details**: Detailed information about each van including price, type, and description
