@@ -69,5 +69,4 @@ The application uses Firebase Firestore to store van data with the following str
 - type: Van type (simple, luxury, rugged)
 - hostId: ID of the host who owns the van
 
-## License
-This project is part of the Scrimba React Router course.
+
